@@ -1,7 +1,7 @@
 {
   "name": "cis224final",
   "version": "0.1.0",
-  "homepage": "https://JoelLumingkewas.github.io/cis224finalproject",
+  "homepage": "https://JoelLumingkewas.github.io/cis224final",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
